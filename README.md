@@ -4,7 +4,7 @@
 
 This repository contains a script to automatically remove emails not marked as Starred from your Gmail inbox. Upon completion of the operation, you will receive an email notification.
 
-### Use GENSR
+### Use GENSR from Google Apps Script
 
 1. **Visit the link of the shared Apps script** [here](https://script.google.com/d/1yAguOlWMdXBvcP8K61dyFPKze6DPW9QrF8BlIaT8c1xnSk6lhy_HlKuj/edit).
 2. **Run the script directly from the Google Apps Script Console or schedule it for automatic execution.**
@@ -66,4 +66,4 @@ Here you can find the description to do a local setup and deploy a new instance 
 
 2. **Add the Gmail API from the services.**
 
-3. **Run the script directly from the Google Apps Script Console or schedule it for automatic execution**
+3. **Run the script directly from the Google Apps Script Console or schedule it for automatic execution.**
