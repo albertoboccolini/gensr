@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Gmail Email Not Starred Remover (GENSR)
+## Gmail Email Not Starred Remover (GENSR)
 
 This repository contains a script to automatically remove emails not marked as Starred from your Gmail inbox. Upon completion of the operation, you will receive an email notification.
 
