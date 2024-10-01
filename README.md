@@ -64,4 +64,6 @@ Here you can find the description to do a local setup and deploy a new instance 
    clasp push
    ```
 
-2. **Run the script directly from the Google Apps Script Console or schedule it for automatic execution**
+2. **Add the Gmail API from the services.**
+
+3. **Run the script directly from the Google Apps Script Console or schedule it for automatic execution**
