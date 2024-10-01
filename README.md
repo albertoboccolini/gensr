@@ -28,14 +28,16 @@ Here you can find the description to do a local setup and deploy a new instance 
     npm install -g @google/clasp
     ```
 
-2.  **Clone the repository**
+2. **Enable the Google Apps Script API's from the User Settings.**
+
+3.  **Clone the repository**
 
     ```bash
     git clone https://github.com/albertoboccolini/gensr.git
     cd repo-name
     ```
 
-3.  **Configure `clasp`**
+4.  **Configure `clasp`**
 
     - If you haven't done so already, log in to `clasp` using the following command:
       ```bash
@@ -46,7 +48,7 @@ Here you can find the description to do a local setup and deploy a new instance 
       clasp whoami
       ```
 
-4.  **Configure the project**
+5.  **Configure the project**
 
     - Create a new Apps Script project in your Google Workspace by following these steps:
 
